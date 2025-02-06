@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## 📈 GitHub Stats
 ![JayGe0618's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayGe0618&show_icons=true&theme=radical)
 
-## 🏆 Top Repositories
+ 🏆 Top Repositories
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=JayGe0618&repo=repo1&theme=radical)](https://github.com/JayGe0618/repo1)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=JayGe0618&repo=repo2&theme=radical)](https://github.com/JayGe0618/repo2)
 
