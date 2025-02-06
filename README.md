@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=JayGe0618&repo=repo2&theme=radical)](https://github.com/JayGe0618/repo2)
 
 ## 🌐 Socials
-- [LinkedIn](https://www.linkedin.com/in/jayge0618)
-- [Twitter](https://twitter.com/jayge0618)
+#- [LinkedIn](https://www.linkedin.com/in/jayge0618)
+#- [Twitter](https://twitter.com/jayge0618)
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
